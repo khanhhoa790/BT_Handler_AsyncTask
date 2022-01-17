@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppHandlerAndAsyncTask.iml" filepath="$PROJECT_DIR$/AppHandlerAndAsyncTask.iml" group="AppHandlerAndAsyncTask" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AppHandlerAndAsyncTask/app" />
+    </modules>
+  </component>
+</project>

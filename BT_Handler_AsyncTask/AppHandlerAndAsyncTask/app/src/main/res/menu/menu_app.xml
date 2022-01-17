@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuHandler"
+        android:title="Handler"/>
+    <item android:id="@+id/menuAsync"
+        android:title="AsyncTask"/>
+    <item android:id="@+id/menuExit"
+        android:title="Exit"/>
+</menu>
